@@ -1,0 +1,14 @@
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\bin\Debug\net8.0\PromedioN.exe
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\bin\Debug\net8.0\PromedioN.deps.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\bin\Debug\net8.0\PromedioN.runtimeconfig.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\bin\Debug\net8.0\PromedioN.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\bin\Debug\net8.0\PromedioN.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.AssemblyInfoInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.AssemblyInfo.cs
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.csproj.CoreCompileInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\refint\PromedioN.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\PromedioN.genruntimeconfig.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\PromedioN\obj\Debug\net8.0\ref\PromedioN.dll

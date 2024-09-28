@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PromedioN": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

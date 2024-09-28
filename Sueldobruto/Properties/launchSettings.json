@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sueldobruto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

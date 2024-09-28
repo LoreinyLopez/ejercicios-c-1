@@ -1,0 +1,14 @@
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\bin\Debug\net8.0\Importe.exe
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\bin\Debug\net8.0\Importe.deps.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\bin\Debug\net8.0\Importe.runtimeconfig.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\bin\Debug\net8.0\Importe.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\bin\Debug\net8.0\Importe.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.AssemblyInfoInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.AssemblyInfo.cs
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.csproj.CoreCompileInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\refint\Importe.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\Importe.genruntimeconfig.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Importe\obj\Debug\net8.0\ref\Importe.dll

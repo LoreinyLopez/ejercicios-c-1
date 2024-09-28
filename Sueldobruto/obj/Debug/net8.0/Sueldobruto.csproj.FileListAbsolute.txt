@@ -1,0 +1,14 @@
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\bin\Debug\net8.0\Sueldobruto.exe
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\bin\Debug\net8.0\Sueldobruto.deps.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\bin\Debug\net8.0\Sueldobruto.runtimeconfig.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\bin\Debug\net8.0\Sueldobruto.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\bin\Debug\net8.0\Sueldobruto.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.AssemblyInfoInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.AssemblyInfo.cs
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.csproj.CoreCompileInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\refint\Sueldobruto.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\Sueldobruto.genruntimeconfig.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Sueldobruto\obj\Debug\net8.0\ref\Sueldobruto.dll
